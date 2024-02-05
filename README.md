@@ -1,53 +1,51 @@
-# Project_RH-PowerBi
+# Projeto_RH-PowerBi
 
-## Descrição
+## Visão Geral
 
-Este repositório contém um projeto de análise de dados de RH utilizando o Power BI. O projeto visa identificar tendências e padrões relacionados a faltas, despesas, salários e outros indicadores relevantes.
+Este repositório abriga um estudo analítico de dados do departamento de Recursos Humanos realizado com Power BI. O foco é desvendar padrões e tendências ligadas a ausências, custos, remunerações e demais indicadores chave.
 
-## Problema
+## Questão
 
-Identificamos a necessidade de analisar:
-- O maior número de faltas;
-- Os maiores gastos entre nossas filiais;
-- A média de idade, para entender sua influência na produtividade;
-- A soma total de salários para avaliar nossos gastos com folha de pagamento.
+Foi percebida a urgência de explorar:
+- A predominância de ausências;
+- Os custos mais elevados entre as unidades;
+- A média etária e seu impacto na eficácia;
+- O total de remunerações para verificar os investimentos em pessoal.
 
-## Indicadores
+## Métricas
 
-- Total de Faltas
-- Faltas por Departamento
-- Média de Gastos por Filial (Salário)
-- Salário por Nome
-- Total de Despesas por Área
+- Ausências Totais
+- Ausências por Setor
+- Média de Custos por Unidade (Remuneração)
+- Remuneração por Indivíduo
+- Gastos Totais por Segmento
 
-## 📊 Insghts obtidos:
+## 📊 Percepções Adquiridas:
 
-### 💰 Salário Médio por Departamento
-- Gerência: R$ 10.200,00
-- Comercial: R$ 6.750,00
-- Recursos Humanos (RH): R$ 5.000,00
-- Financeiro: R$ 4.594,00
-- Atendimento: R$ 2.850,00
-- Estagiária: R$ 1.500,00
+### 💰 Remuneração Média por Setor
+- Direção: R$ 10.200,00
+- Vendas: R$ 6.750,00
+- RH: R$ 5.000,00
+- Contabilidade: R$ 4.594,00
+- Suporte: R$ 2.850,00
+- Estagiário: R$ 1.500,00
 
-### 📈 Correlação entre Idade e Salário
-- A correlação entre idade e salário é -0.056, indicando uma relação muito fraca/não significativa.
+### 📈 Relação entre Idade e Remuneração
+- A correlação entre idade e remuneração é -0.056, sinalizando um vínculo muito fraco/inexpressivo.
 
-
-### 👥 Distribuição de Idade entre os Empregados
+### 👥 Distribuição Etária dos Colaboradores
 - Idade Média: 32 anos
-- Faixa Etária: 19 a 65 anos
+- Intervalo de Idade: 19 a 65 anos
 
-### 📅 Taxas de Ausência (Faltas) por Departamento ou Filial
-- Financeiro: Média de 3,5 faltas.
-- Comercial e Gerência: Média de 2,0 e 2,4 faltas respectivamente.
-- Filial RJ: Média de 4,4 faltas.
-- Filiais BH e MG: Sem faltas registradas.
+### 📅 Índices de Ausência (Ausências) por Setor ou Filial
+- Contabilidade: Média de 3,5 ausências.
+- Vendas e Direção: Médias de 2,0 e 2,4 ausências, respectivamente.
+- Filial RJ: Média de 4,4 ausências.
+- Filiais BH e MG: Sem registros de ausência.
 
+## Colaborações
 
-## Contribuições
-
-Contribuições são bem-vindas! Por favor, crie um issue ou faça um pull request.
+Contribuições são incentivadas! Sinta-se livre para abrir um issue ou submeter um pull request.
 
 ## Imagem
 ![Imagem do dashboard](https://github.com/jaianaaraujo/Project_RH-PowerBi/raw/main/imagem%20do%20dashboard.jpeg)
